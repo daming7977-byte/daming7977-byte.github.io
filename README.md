@@ -1,4 +1,4 @@
-# Liming Li — Academic Website
+# Ming Li — Academic Website
 
 A lightweight, responsive academic homepage designed for GitHub Pages.
 
